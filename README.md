@@ -7,10 +7,10 @@ Date of creation: 05.10.25
 pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This is the project assignment for the course: Udacity Introduction to Version Control
 
 ### Files used
-Include the files used
+bikeshare_2.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

@@ -13,5 +13,7 @@ This is the project assignment for the course: Udacity Introduction to Version C
 bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Original Fork: https://github.com/udacity/pdsnd_github
+Data from: Udacity 
+
 
